@@ -1,0 +1,9 @@
+artigos/
+data/*.csv
+*.png
+*.meta.json
+*.html
+Manifest.toml
+.DS_Store
+__pycache__/
+*.pyc
